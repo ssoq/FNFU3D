@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: 357677238633f1f47ace0f87c3f43a29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gfChristmas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7476
+        width: 804
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f579d47ab149dd49a99acdf79f44fc9
+      internalID: -454985927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_1
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 7476
+        width: 808
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c208f395a1464abe3841387a75ace
+      internalID: -234341223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 7476
+        width: 808
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60fd126c43a62249b41a82323aee18a
+      internalID: 1573831559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_3
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 7476
+        width: 804
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f509baa5f370544b9cea8771a8ca6e3
+      internalID: -1750132749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_4
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 7476
+        width: 804
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4eb908d83e0641920809cbe0c3f0b
+      internalID: 133437850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_5
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 7480
+        width: 808
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4376e49159744581fe436f7a3c994
+      internalID: 1717605008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_6
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 7480
+        width: 808
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f72a99809574f4cb26ae96f8468fa3
+      internalID: 1359157550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_7
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 7476
+        width: 808
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1d136cfc68094a886b85f516ca56e
+      internalID: 1694325746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_8
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 7496
+        width: 804
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c446c722edf876c4bb5e9825e8b2aa4a
+      internalID: 2075276835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6764
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d940de20843ff49884a1391e8c1e11
+      internalID: -799531902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_10
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 6764
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6880d57e7356a948b582bca5bdede6c
+      internalID: -772706161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_11
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 6768
+        width: 808
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151f5442e3a1f14fb281f483d5fad5b
+      internalID: 782615480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_12
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 6764
+        width: 804
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a05909cb0876504e9bc016594220b2c
+      internalID: 1466692090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_13
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 6764
+        width: 804
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63825daeb618d4f44a2aa8bf6a051925
+      internalID: -1474875049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_14
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 6760
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b8ce8d0bc00ec459c2ff516ff5aaa6
+      internalID: 1157067328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_15
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6748
+        width: 808
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda0818e0b7e6148b2ac252e2edb58d
+      internalID: 1182794584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_16
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 6748
+        width: 808
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2db055e3b888458bd2cc092605e2e
+      internalID: 1316449864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_17
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 6748
+        width: 804
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4de7d976de294ea8405f8e194d06c
+      internalID: -1033808059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6036
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4762ae5fdcd74c85ea5bed710151e
+      internalID: 1660067057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 6036
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a1cdb78974cc74fbe1b2d627a94c5c
+      internalID: -1901713299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_20
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 6036
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38155a69ec308c34e95fc5674cdfe432
+      internalID: 218988043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_21
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 6036
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507cbed21087644d8e025ac1ae4209f
+      internalID: -432431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_22
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 6036
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790ff585117ae74ca0673d0d6071b92
+      internalID: -339324197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_23
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 6036
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7f240ed4d7304188aa76647330e84
+      internalID: 1920508160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_24
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6036
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aead0d537063a541a70c77a7d86b5b2
+      internalID: 1352748497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_25
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 6028
+        width: 808
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664156887b3384e41b5f6e334aa8ba73
+      internalID: 15574976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_26
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 6032
+        width: 804
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a0b0bd2759734b9f056e89fd59f2c
+      internalID: 217960259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5312
+        width: 804
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6e89da66cc2445b488e94dfa232d6
+      internalID: -1335270588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_28
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 5316
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b3ccd6b81fa144805633ad43e5e4b
+      internalID: -1728213225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_29
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 5316
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f318c073321a88046b4dfee046e78e2b
+      internalID: 907500746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_30
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 5332
+        width: 808
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb6e82cb9c3f94797c3275cb8e55ed
+      internalID: 1152468180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_31
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 5332
+        width: 804
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa31009e5d9f9044bc8ace323f97994
+      internalID: 591280957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_32
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 5344
+        width: 808
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aafeacf7c98baf44b1f67f687d8d092
+      internalID: 1092879547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_33
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 5348
+        width: 808
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35440b4a03ae57b4b89ab6031afd1936
+      internalID: -1071974607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_34
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 5328
+        width: 808
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bccb510c3fcb445a4bb3864cd40803
+      internalID: 1693203090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_35
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 5320
+        width: 804
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409319ef6cfddaa47b1563afe23e869e
+      internalID: 1635789175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4604
+        width: 804
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74377cf596da49640994dc600604a4e1
+      internalID: -1530377998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4596
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e382cc759a5a4f4da2a4ac7c429252a
+      internalID: -1250966790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_38
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 4600
+        width: 808
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7446a8cc44cbd0640835aa7aa05abbb8
+      internalID: -1241150403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_39
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 4596
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25c1e418df7f1428cbccb5bc88fa1e
+      internalID: -332355372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_40
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 4596
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e55a466de65fe48ac51dcc5702646d
+      internalID: 201523352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_41
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 4596
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695b756f2a19d44c8cbc4c226af54b7
+      internalID: 1323745366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_42
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 4596
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea532ad86d14064c9e136d9828b5d7d
+      internalID: 1022678431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_43
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 4596
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2798843b83fc084695051de3f86b4c5
+      internalID: 1836368586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_44
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 4596
+        width: 804
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1442fc28ae7054a98d5ff3de5b437d
+      internalID: 1954529077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3880
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3b744b69eeaa4db089161bfaa8d03
+      internalID: -206199846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3876
+        width: 808
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb08b0d6eef2524494cdf5263e63fac
+      internalID: 1919396082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_47
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3884
+        width: 808
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba4c2be4913c34584a65618a3115b7
+      internalID: -564972136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_48
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 3884
+        width: 808
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c8c783c95b8be479c114101249a40f
+      internalID: 1933720921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_49
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3880
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f48e72db1f264eb80725bb275ffff
+      internalID: 264962635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_50
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3880
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd067728c307784889a7eaffdfba8e1
+      internalID: 1046009551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_51
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3880
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acc77b9398aaa54b8e60048d43b5404
+      internalID: 1840714571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_52
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 3880
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af3c5d172c29942aea1ec2035ccbb7
+      internalID: -2003553901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_53
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 3880
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c15cbd333af5b46b59440fe416717d
+      internalID: -3668962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3164
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dbc06b964a294448bbe19191ff69c3
+      internalID: -1276169001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3164
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c91f0bf4453142b2c73d299cdf1b9
+      internalID: -1297201538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_56
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3140
+        width: 808
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d86240e09dc254ea12e8a5e490f044
+      internalID: 378275708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_57
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 3140
+        width: 808
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26323d89836fefb4a9ca04a71f3a062a
+      internalID: 596293809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_58
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3140
+        width: 804
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04a810991086343940d57e43a6ca49
+      internalID: -993391213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_59
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3140
+        width: 808
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2311d955d513c42b70ead363988ae1
+      internalID: -624962350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_60
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3140
+        width: 808
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99de50a69d174048acafd5b1addc1f2
+      internalID: 1899379316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_61
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 3140
+        width: 808
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eda76f009ad7c48b7e0151f24d76c3
+      internalID: -486609083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_62
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 3140
+        width: 804
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308aeb6279c0a442b06cdb51ec734eb
+      internalID: -1781978211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2428
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204548404e8b8f41853e6f7cb34427f
+      internalID: -163727017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_64
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2432
+        width: 808
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce002f24761a9e47b771e52e7d113c4
+      internalID: -969739201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_65
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2424
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6741b2b2c35624ca933270fb6d62c8
+      internalID: -1225808910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_66
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2424
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b614905cbe6d4e9c1bb883f1cb397
+      internalID: -771668016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_67
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 2424
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d9d32e8e8938449d72ead701e67c8
+      internalID: -1531414973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_68
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2424
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379dec487016d0140a6135d9e7433f67
+      internalID: 120739982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_69
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2424
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adec4b4a58dbbca4a9c49fb06e37508b
+      internalID: -192819557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_70
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 2424
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc016aa6d75822468d4640aa85272fd
+      internalID: 1296116046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_71
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 2424
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51aa47f60361fb4cac05a563491730b
+      internalID: -1062570507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1712
+        width: 804
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699cc6b17f2301145928c902438e5402
+      internalID: 1781290612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_73
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1712
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3419f9fc253e29745822c22237086cb8
+      internalID: 714395095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_74
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1712
+        width: 808
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e88d7461a83942ab51236e2555f00
+      internalID: 822949578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_75
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1712
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd00bba1051124699f6007029c036b
+      internalID: 753188291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfChristmas_76
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1712
+        width: 804
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34165aa739b73bd4d853785d8f7d6c49
+      internalID: 479936045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gfChristmas_0: -454985927
+      gfChristmas_1: -234341223
+      gfChristmas_10: -772706161
+      gfChristmas_11: 782615480
+      gfChristmas_12: 1466692090
+      gfChristmas_13: -1474875049
+      gfChristmas_14: 1157067328
+      gfChristmas_15: 1182794584
+      gfChristmas_16: 1316449864
+      gfChristmas_17: -1033808059
+      gfChristmas_18: 1660067057
+      gfChristmas_19: -1901713299
+      gfChristmas_2: 1573831559
+      gfChristmas_20: 218988043
+      gfChristmas_21: -432431468
+      gfChristmas_22: -339324197
+      gfChristmas_23: 1920508160
+      gfChristmas_24: 1352748497
+      gfChristmas_25: 15574976
+      gfChristmas_26: 217960259
+      gfChristmas_27: -1335270588
+      gfChristmas_28: -1728213225
+      gfChristmas_29: 907500746
+      gfChristmas_3: -1750132749
+      gfChristmas_30: 1152468180
+      gfChristmas_31: 591280957
+      gfChristmas_32: 1092879547
+      gfChristmas_33: -1071974607
+      gfChristmas_34: 1693203090
+      gfChristmas_35: 1635789175
+      gfChristmas_36: -1530377998
+      gfChristmas_37: -1250966790
+      gfChristmas_38: -1241150403
+      gfChristmas_39: -332355372
+      gfChristmas_4: 133437850
+      gfChristmas_40: 201523352
+      gfChristmas_41: 1323745366
+      gfChristmas_42: 1022678431
+      gfChristmas_43: 1836368586
+      gfChristmas_44: 1954529077
+      gfChristmas_45: -206199846
+      gfChristmas_46: 1919396082
+      gfChristmas_47: -564972136
+      gfChristmas_48: 1933720921
+      gfChristmas_49: 264962635
+      gfChristmas_5: 1717605008
+      gfChristmas_50: 1046009551
+      gfChristmas_51: 1840714571
+      gfChristmas_52: -2003553901
+      gfChristmas_53: -3668962
+      gfChristmas_54: -1276169001
+      gfChristmas_55: -1297201538
+      gfChristmas_56: 378275708
+      gfChristmas_57: 596293809
+      gfChristmas_58: -993391213
+      gfChristmas_59: -624962350
+      gfChristmas_6: 1359157550
+      gfChristmas_60: 1899379316
+      gfChristmas_61: -486609083
+      gfChristmas_62: -1781978211
+      gfChristmas_63: -163727017
+      gfChristmas_64: -969739201
+      gfChristmas_65: -1225808910
+      gfChristmas_66: -771668016
+      gfChristmas_67: -1531414973
+      gfChristmas_68: 120739982
+      gfChristmas_69: -192819557
+      gfChristmas_7: 1694325746
+      gfChristmas_70: 1296116046
+      gfChristmas_71: -1062570507
+      gfChristmas_72: 1781290612
+      gfChristmas_73: 714395095
+      gfChristmas_74: 822949578
+      gfChristmas_75: 753188291
+      gfChristmas_76: 479936045
+      gfChristmas_8: 2075276835
+      gfChristmas_9: -799531902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

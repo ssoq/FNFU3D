@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 6f7c01674369b634197b80b681c341b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5020
+        width: 876
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9a6c952cfd0034cbd3ff7532d3cc59
+      internalID: -1624735128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5036
+        width: 880
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bbb89d4f6176f4b8c6514bb8676247
+      internalID: -477830962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_2
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 5032
+        width: 884
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23798dd515342a48a253a870ccca757
+      internalID: 1603631134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_3
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 5020
+        width: 872
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529105c805f570440a5bb65495d1b028
+      internalID: 251389024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_4
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 5016
+        width: 872
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae9e85ced5537743bfa7e0592125e54
+      internalID: 909819039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_5
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 5016
+        width: 872
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ee174f8f7683a4b8ff33e6dda7cb38
+      internalID: 1239525906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_6
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 5016
+        width: 868
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0afecb6ce75d4484a2abf538d1520
+      internalID: -176890811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_7
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 5044
+        width: 852
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199d3be841705484692499d6d607ee97
+      internalID: -241173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_8
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 5044
+        width: 848
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd697bc9d2ff52243a96f06eb2771024
+      internalID: -1178027458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4256
+        width: 852
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056bfeb271ef6384185416313a04e14e
+      internalID: -339785167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4256
+        width: 856
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ee865ba0830945a20925de36849f5
+      internalID: -1522018923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_11
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4248
+        width: 856
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed5350b510616429105dc6ddbbf4a2
+      internalID: 1048536269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_12
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 4248
+        width: 856
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1e57b00be4994fbbb38098501c027
+      internalID: -1213658184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_13
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 4252
+        width: 852
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2435007be6784a9f5d24dad728dba
+      internalID: 629538608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_14
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 4252
+        width: 852
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a0a7a5e707c3e42b11624f4137c41e
+      internalID: -62625546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_15
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 4252
+        width: 856
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9b22d4df4df784b8ed495d3c3e692c
+      internalID: 2012274326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_16
+      rect:
+        serializedVersion: 2
+        x: 6004
+        y: 4252
+        width: 856
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d9cc37d2362b49b264bed3ae40bb3
+      internalID: -1058894020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_17
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 4248
+        width: 856
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26372293d2beee46aa7a285b59c043d
+      internalID: -1476987238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 852
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb355168bef902140a9b14670b9054d6
+      internalID: -1644942108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3480
+        width: 856
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0cc8d8133583042b9f050462a351ce
+      internalID: 1432098949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_20
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3480
+        width: 856
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4e36760321d24c8e84f951688cfe0
+      internalID: 622815530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_21
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 3436
+        width: 792
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94a1eeb344cf0429c211950a30f289
+      internalID: 449432718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_22
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 3436
+        width: 788
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759df101792ad542a83c40f1a6a9517
+      internalID: 1805416414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_23
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 3444
+        width: 804
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc46346b12a5c84887b724ca1a39513
+      internalID: -507054911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_24
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 3444
+        width: 804
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e1e1981f7a2aa4982c9330f5c42c67
+      internalID: -1909056384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_25
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 3436
+        width: 804
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b2df90cf9ac954c849fe2e8c806a02
+      internalID: -257604810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_26
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 3436
+        width: 804
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7072b65d587a4fb19df3150e78440
+      internalID: -1613222325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_27
+      rect:
+        serializedVersion: 2
+        x: 7388
+        y: 3436
+        width: 804
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b383b764f237dc47b2fa8e6d48f90ec
+      internalID: 882946163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2628
+        width: 800
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc402b7aeeaf454eaf106a87845cb3d
+      internalID: -715460240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_29
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2624
+        width: 788
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bc228d0b323840bbb6fe9550a85f9
+      internalID: -969648971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_30
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2628
+        width: 792
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f7fd756bff0aa45bb83ad7c2ec14a2
+      internalID: 1176138505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_31
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2636
+        width: 804
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99b3c1bf5a6fa489b785b88ebbc758
+      internalID: 1697474063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_32
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2636
+        width: 804
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b4d9f1ff12a68418f94baf0d0b14b7
+      internalID: 1867782492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_33
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2628
+        width: 804
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42ad31a2d33f14ca8f40554fd92b48
+      internalID: -1645998637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_34
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2628
+        width: 804
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133085451f4b6bd4da23f2136ceac6fa
+      internalID: -58516677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_35
+      rect:
+        serializedVersion: 2
+        x: 5612
+        y: 2628
+        width: 804
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417faf43012b61479299440bd6df159
+      internalID: -792434062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_36
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 2628
+        width: 804
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c96bdfb3e6f2b40878c329dbe98aae
+      internalID: 1510900921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_37
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 2680
+        width: 956
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5775fe86e3d0d0d4dbd2857349d15883
+      internalID: 1338076082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 956
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d686ee15d7a7c4d947a33e235dd9bb
+      internalID: -1372765361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1856
+        width: 956
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4a2739fb219546881a9830237c6e0
+      internalID: 136258406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_40
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1856
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ae420a3a3a1b48a478f50697f4c49
+      internalID: -161463132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_41
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1868
+        width: 956
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ecc17c5f045e43931b30d0d1bf2c5
+      internalID: 1904857904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_42
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 1852
+        width: 956
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ceb8faea4cb9468f68d5692f76a62
+      internalID: -1021765783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_43
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 1856
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f226e29ed3c4b479bf3a82331e829a
+      internalID: 805316408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_44
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 1856
+        width: 956
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda6017028f09349b5e58a0b776320c
+      internalID: 1242267085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_45
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 1808
+        width: 796
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb75a83d1975d0438d43134345b5eae
+      internalID: -1801978094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 788
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce006ab59d18954da74db1ec9467e6c
+      internalID: -597133616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_47
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 996
+        width: 808
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578129ec9e886448bf2f31b9acba83d
+      internalID: -1236933503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_48
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 996
+        width: 804
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0db77d8e9ef8b4ca67d556d09ff8f9
+      internalID: 1710764900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_49
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 992
+        width: 804
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a7ca165e1e324f84d576815340cbb
+      internalID: 1826694914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_50
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 992
+        width: 808
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5997734ccc4c2b549b3d818b03bae29f
+      internalID: 360997424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_51
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 992
+        width: 808
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861bd2ab54d6ce419fe2511ef62ee1a
+      internalID: -2017088642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_52
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 992
+        width: 804
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee8315d43f7e8845a18cd8ea68ca9e5
+      internalID: 1478371779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_53
+      rect:
+        serializedVersion: 2
+        x: 5648
+        y: 988
+        width: 792
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3ddaf0ca8db4b4785d1834a44b8a8b
+      internalID: -1491069460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_54
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 988
+        width: 792
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87653032b93960d4da165dcb8342d846
+      internalID: -1626640070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_55
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 996
+        width: 808
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345970bfc93efae44a8e64e385b3b941
+      internalID: 949166471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 804
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7cdd180d85f146900aa18660796c4
+      internalID: 1887695962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_57
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 172
+        width: 808
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842183ce41a3d1243b46bb6e710addf4
+      internalID: 425621412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_58
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 172
+        width: 804
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d267fcee2e040944979eeaf77a1ef95
+      internalID: -2025663747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_59
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 172
+        width: 804
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab729e7b204ec64cbfab8adcc2f1901
+      internalID: 990279247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mom_dad_christmas_assets_60
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 172
+        width: 808
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f76e5d6e4ced418cb1ab404f8129b
+      internalID: -765311138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98a111ab064060244ac4f37ddc13d533
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mom_dad_christmas_assets_0: -1624735128
+      mom_dad_christmas_assets_1: -477830962
+      mom_dad_christmas_assets_10: -1522018923
+      mom_dad_christmas_assets_11: 1048536269
+      mom_dad_christmas_assets_12: -1213658184
+      mom_dad_christmas_assets_13: 629538608
+      mom_dad_christmas_assets_14: -62625546
+      mom_dad_christmas_assets_15: 2012274326
+      mom_dad_christmas_assets_16: -1058894020
+      mom_dad_christmas_assets_17: -1476987238
+      mom_dad_christmas_assets_18: -1644942108
+      mom_dad_christmas_assets_19: 1432098949
+      mom_dad_christmas_assets_2: 1603631134
+      mom_dad_christmas_assets_20: 622815530
+      mom_dad_christmas_assets_21: 449432718
+      mom_dad_christmas_assets_22: 1805416414
+      mom_dad_christmas_assets_23: -507054911
+      mom_dad_christmas_assets_24: -1909056384
+      mom_dad_christmas_assets_25: -257604810
+      mom_dad_christmas_assets_26: -1613222325
+      mom_dad_christmas_assets_27: 882946163
+      mom_dad_christmas_assets_28: -715460240
+      mom_dad_christmas_assets_29: -969648971
+      mom_dad_christmas_assets_3: 251389024
+      mom_dad_christmas_assets_30: 1176138505
+      mom_dad_christmas_assets_31: 1697474063
+      mom_dad_christmas_assets_32: 1867782492
+      mom_dad_christmas_assets_33: -1645998637
+      mom_dad_christmas_assets_34: -58516677
+      mom_dad_christmas_assets_35: -792434062
+      mom_dad_christmas_assets_36: 1510900921
+      mom_dad_christmas_assets_37: 1338076082
+      mom_dad_christmas_assets_38: -1372765361
+      mom_dad_christmas_assets_39: 136258406
+      mom_dad_christmas_assets_4: 909819039
+      mom_dad_christmas_assets_40: -161463132
+      mom_dad_christmas_assets_41: 1904857904
+      mom_dad_christmas_assets_42: -1021765783
+      mom_dad_christmas_assets_43: 805316408
+      mom_dad_christmas_assets_44: 1242267085
+      mom_dad_christmas_assets_45: -1801978094
+      mom_dad_christmas_assets_46: -597133616
+      mom_dad_christmas_assets_47: -1236933503
+      mom_dad_christmas_assets_48: 1710764900
+      mom_dad_christmas_assets_49: 1826694914
+      mom_dad_christmas_assets_5: 1239525906
+      mom_dad_christmas_assets_50: 360997424
+      mom_dad_christmas_assets_51: -2017088642
+      mom_dad_christmas_assets_52: 1478371779
+      mom_dad_christmas_assets_53: -1491069460
+      mom_dad_christmas_assets_54: -1626640070
+      mom_dad_christmas_assets_55: 949166471
+      mom_dad_christmas_assets_56: 1887695962
+      mom_dad_christmas_assets_57: 425621412
+      mom_dad_christmas_assets_58: -2025663747
+      mom_dad_christmas_assets_59: 990279247
+      mom_dad_christmas_assets_6: -176890811
+      mom_dad_christmas_assets_60: -765311138
+      mom_dad_christmas_assets_7: -241173206
+      mom_dad_christmas_assets_8: -1178027458
+      mom_dad_christmas_assets_9: -339785167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

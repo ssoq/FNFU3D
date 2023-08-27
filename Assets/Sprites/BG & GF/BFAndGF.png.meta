@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 538d7261feac68845b7004fb89021c3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BFAndGF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3247
+        width: 599
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d04a6ece35322c448ac3535fdb8463f
+      internalID: -2016765729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3185
+        width: 590
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eaf849183118b4db0eec3f5f18f649
+      internalID: 1164418935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_2
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 3706
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21ce7e92c40d44d9e1da9f51c911b9
+      internalID: 1023525941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_3
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3706
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdfc4b74128c9438194326d2650e83
+      internalID: 640194137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_4
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3706
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4368ab0c3ebd46974c2672845690d
+      internalID: 1356264929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_5
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3706
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5712d5a8102ad6f4d8e83e605b1d58da
+      internalID: 127218732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_6
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3706
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0ae9eb73a64a4ea2c67c7fd3665cc
+      internalID: 1386158152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2307
+        width: 591
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a45725478a7d4b91da3d1718a7303
+      internalID: 384624733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_8
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 3232
+        width: 537
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699f080781088bc458a8794d0e35c897
+      internalID: 460123567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_9
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3177
+        width: 536
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e030a1e4bee35344b11f0e8f2383d67
+      internalID: -735257752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_10
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3232
+        width: 536
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f592b5f56c86419d1619d387e1ad4
+      internalID: -1839552965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_11
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 3240
+        width: 537
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1be7e00002a12488d54c382e495271
+      internalID: -1523588593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_12
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 3240
+        width: 544
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c360f8e3def0a4f9c56c65091c842a
+      internalID: -1754275257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_13
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2719
+        width: 1127
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86e29ed4c0dd5d4c927bb94d7c0b672
+      internalID: -1626493161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_14
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2773
+        width: 529
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ae4ecdd3d1d24f84009fd6156bd70
+      internalID: 795246768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_15
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 2766
+        width: 591
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30283d6dbe4365c498b71268e33d741b
+      internalID: -1249563409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_16
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 3177
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e322d6b3a6c7c54699bf10422c91c87
+      internalID: -1339629551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_17
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2245
+        width: 536
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4ec0f04a449c847b24d97725409e64
+      internalID: 431930532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_18
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2268
+        width: 544
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b5228af19d1547aff3927e86f794d
+      internalID: 227447768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_19
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2237
+        width: 536
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9dccc524d9b804994a20076754dc7b
+      internalID: -1201306634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_20
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2711
+        width: 536
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa702253cec7b854fa3cf3894988d9c6
+      internalID: 98596840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_21
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2292
+        width: 591
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512561e354c535b4ab3423f9dbb07f7f
+      internalID: 1503539163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_22
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 2711
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870ae89f6f839c4b96fe6743577eba2
+      internalID: -1700918389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_23
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 2261
+        width: 568
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6320112b22a68d40ba1719102cbfde1
+      internalID: 948807733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1857
+        width: 560
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd053b8a5c9afde498fb573430a916a1
+      internalID: 1694637359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1802
+        width: 575
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457def0212ffc66419b6bc802c34a71e
+      internalID: 1656328370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_26
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1795
+        width: 568
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f0c5ef0c75b1429d5eec0a11ee55e
+      internalID: -949996649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_27
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1802
+        width: 1181
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e905e97d98b4e94aa95ea792acc62e2
+      internalID: 1498034303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_28
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1818
+        width: 576
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3c4c352649e74abd8fec78f2f1c4a
+      internalID: 2036711652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 544
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea268f13053c2e4cb5288cdf85df2cd
+      internalID: -1653146323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 901
+        width: 567
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d315a2a7887dd64995b4e4b1c86ec7d
+      internalID: -1611758429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1360
+        width: 560
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891dcba4f04913e429d9ba373fb18d19
+      internalID: 1029654518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_32
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1367
+        width: 552
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d0d2f530e50046baeff9c7a78a45d
+      internalID: 1294040030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_33
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1352
+        width: 552
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd2c1a6c2b75c24da62f5ce935abb01
+      internalID: 1596341904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_34
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1375
+        width: 567
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc0e5127e08224ab77e74993af101e
+      internalID: 443207860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 521
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aa73fb85473b542a0eb5228e9988e2
+      internalID: -545558298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 521
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ffb87104912847962015dafc35d82
+      internalID: 834015360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_37
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 451
+        width: 560
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd51a0d9000d2a43b7968308fb3ec48
+      internalID: 642862262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_38
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 901
+        width: 529
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc8bb5ebc34b2418e40258c8c3761f
+      internalID: 529162011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_39
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 909
+        width: 528
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb804a88425e14a45800b715dcab5045
+      internalID: 792621467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_40
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 505
+        width: 529
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d95cbff1df48b4095b7f5441da02bc
+      internalID: -1306614598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_41
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 940
+        width: 567
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39fc208a07f2dd4c932a79d9095b3b8
+      internalID: -205406915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_42
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 497
+        width: 684
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7262ea845af66408711ecb9e255fa1
+      internalID: 1406806420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 466
+        width: 528
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08909018bce85645a326ace4c1eaa9b
+      internalID: 1726225490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_44
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 466
+        width: 529
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5196373853756847a73b39b96da7232
+      internalID: 1826614088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_45
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 458
+        width: 528
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4260f40ee45f034db55c47eb17ad5dd
+      internalID: -1128548171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_46
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 54
+        width: 521
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77f4e44429e4b468064c58efa737b0
+      internalID: 1095776540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_47
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 62
+        width: 529
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8dd3fd991e29247b187d038d6dc017
+      internalID: -105478075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 521
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d177a383d91b94e93ce98642ace457
+      internalID: 1655398420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFAndGF_49
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 39
+        width: 529
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f9b94935307fa4980e25fb2d299314
+      internalID: 1310595157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a72a4ac3510e04041b7300ecf2be16f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BFAndGF_0: -2016765729
+      BFAndGF_1: 1164418935
+      BFAndGF_10: -1839552965
+      BFAndGF_11: -1523588593
+      BFAndGF_12: -1754275257
+      BFAndGF_13: -1626493161
+      BFAndGF_14: 795246768
+      BFAndGF_15: -1249563409
+      BFAndGF_16: -1339629551
+      BFAndGF_17: 431930532
+      BFAndGF_18: 227447768
+      BFAndGF_19: -1201306634
+      BFAndGF_2: 1023525941
+      BFAndGF_20: 98596840
+      BFAndGF_21: 1503539163
+      BFAndGF_22: -1700918389
+      BFAndGF_23: 948807733
+      BFAndGF_24: 1694637359
+      BFAndGF_25: 1656328370
+      BFAndGF_26: -949996649
+      BFAndGF_27: 1498034303
+      BFAndGF_28: 2036711652
+      BFAndGF_29: -1653146323
+      BFAndGF_3: 640194137
+      BFAndGF_30: -1611758429
+      BFAndGF_31: 1029654518
+      BFAndGF_32: 1294040030
+      BFAndGF_33: 1596341904
+      BFAndGF_34: 443207860
+      BFAndGF_35: -545558298
+      BFAndGF_36: 834015360
+      BFAndGF_37: 642862262
+      BFAndGF_38: 529162011
+      BFAndGF_39: 792621467
+      BFAndGF_4: 1356264929
+      BFAndGF_40: -1306614598
+      BFAndGF_41: -205406915
+      BFAndGF_42: 1406806420
+      BFAndGF_43: 1726225490
+      BFAndGF_44: 1826614088
+      BFAndGF_45: -1128548171
+      BFAndGF_46: 1095776540
+      BFAndGF_47: -105478075
+      BFAndGF_48: 1655398420
+      BFAndGF_49: 1310595157
+      BFAndGF_5: 127218732
+      BFAndGF_6: 1386158152
+      BFAndGF_7: 384624733
+      BFAndGF_8: 460123567
+      BFAndGF_9: -735257752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
