@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] public Animator upAnim;
     [SerializeField] public Animator downAnim;
     [SerializeField] public Animator pauseAnim;
+    [SerializeField] public Animator focusAnim;
 
     [Space(10f)]
 
@@ -57,6 +58,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
+        Screen.SetResolution(1920, 1080, FullScreenMode.FullScreenWindow);
+
         Instance = this;
 
         if (SceneManager.GetActiveScene().name != "Menu") 
@@ -85,6 +88,7 @@ public class GameManager : MonoBehaviour
 
         HealthSlider();
         ScoreText();
+        ReleaseAnimationStates();
     }
 
     private void CheckForPauseInput() 
@@ -103,6 +107,36 @@ public class GameManager : MonoBehaviour
         pauseAnim.SetBool("paused", true);
     }
 
+    private void ReleaseAnimationStates() 
+    {
+        #region Releasing BF & GF Animation States
+
+        if (SceneManager.GetActiveScene().name == "Menu") return;
+
+        if (!Input.GetKey(left))
+        {
+            bfAnim.SetBool("left", false);
+            gfAnim.SetBool("left", false);
+        }
+        if (!Input.GetKey(right))
+        {
+            bfAnim.SetBool("right", false);
+            gfAnim.SetBool("right", false);
+        }
+        if (!Input.GetKey(down))
+        {
+            bfAnim.SetBool("down", false);
+            gfAnim.SetBool("down", false);
+        }
+        if (!Input.GetKey(up))
+        {
+            bfAnim.SetBool("up", false);
+            gfAnim.SetBool("up", false);
+        }
+
+        #endregion
+    }
+
     public void UnPauseGame()
     {
         pausedGame = false;
@@ -113,9 +147,18 @@ public class GameManager : MonoBehaviour
         pauseAnim.SetBool("paused", false);
     }
 
-    public void LoadGame() 
+    public void LoadEggnog() 
     {
         Loader loaderScript = GameObject.Find("Loader").GetComponent<Loader>();
+        loaderScript.nextSceneName = "Eggnog";
+
+        loaderScript.Play();
+    }
+
+    public void LoadLitup()
+    {
+        Loader loaderScript = GameObject.Find("Loader").GetComponent<Loader>();
+        loaderScript.nextSceneName = "Lit Up";
 
         loaderScript.Play();
     }

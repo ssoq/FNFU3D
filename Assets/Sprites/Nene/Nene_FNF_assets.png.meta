@@ -147,18 +147,612 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Nene_FNF_assets_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3459
+        width: 796
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dfe5f4bae351488b239bd23acce8f
+      internalID: -932687218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3459
+        width: 796
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ed556f1af68ac488287980c88d5376
+      internalID: -1090027813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_2
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3461
+        width: 793
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193b8a6de23053498f462584452ed63
+      internalID: 1563122913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_3
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 3461
+        width: 792
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7173eaf0641484e9c279e3fe2154ac
+      internalID: 1936659227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_4
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 3460
+        width: 793
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5282f9b2640d314eb0a01ac1403ed28
+      internalID: 529110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2811
+        width: 792
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa390719456a1a5478310d7fe9acd606
+      internalID: 950401723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2807
+        width: 793
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cab41ac707e0d44bca5066abec2664
+      internalID: -389534974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2796
+        width: 793
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac3de9df07f2c4fa7dc70eab0a8383
+      internalID: -833259285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_8
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2796
+        width: 793
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea1dcc0f2b8ccd418914f37f22c856c
+      internalID: 1860454028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_9
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 2796
+        width: 793
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20186b11cb8f8c64ea6d0274015acf85
+      internalID: -269772336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2131
+        width: 793
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8d40f510b15749b80daa3462e9c76
+      internalID: -210305029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_11
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2131
+        width: 792
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df610fb649363444af429faeb33400a
+      internalID: 856106636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_12
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2131
+        width: 792
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b3988b212c444eb3c1d29b323e67b
+      internalID: -2098306336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_13
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 2131
+        width: 793
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb0a0301afbead4c96e12b4c166125f
+      internalID: -748290348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_14
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 2122
+        width: 796
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b592721693f9614b860974aa1402de5
+      internalID: -419411628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1451
+        width: 796
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced4ca8e0e55104dbdeaa52e12122cd
+      internalID: -49649099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1449
+        width: 792
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184fa00e83d1dbe479749f9c0d08bad1
+      internalID: -388634178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_17
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1449
+        width: 792
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e58492dd99d6b40820824b5fdc72cf
+      internalID: -1392472459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_18
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1451
+        width: 792
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30ec0b2d603314e80881762dd9114b
+      internalID: 1616010797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_19
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1451
+        width: 792
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f762106beecde439e849ae9913abfa
+      internalID: -1083022538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 780
+        width: 793
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c739319016b774cba39783d8eb063e
+      internalID: -1572625084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_21
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 785
+        width: 792
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9a854da5b98b488956217adb65091
+      internalID: 637251671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_22
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 785
+        width: 793
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd1c80364d7a54f8eee7bf21e07858
+      internalID: -1041794930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_23
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 784
+        width: 792
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563912a90c874f24c8ff9802269fd7a2
+      internalID: -1910638705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_24
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 784
+        width: 792
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a5667f5b0f85141ae30f3200450dc5
+      internalID: 130241437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 793
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c5e8423166851449b0d12bf2b3770e
+      internalID: 1598138155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nene_FNF_assets_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 115
+        width: 793
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0619f55ce6ec44cb142d217ec2f0f8
+      internalID: 1356457037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2de4f59a29b88d14491a5ab4002f66f2
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nene_FNF_assets_0: -932687218
+      Nene_FNF_assets_1: -1090027813
+      Nene_FNF_assets_10: -210305029
+      Nene_FNF_assets_11: 856106636
+      Nene_FNF_assets_12: -2098306336
+      Nene_FNF_assets_13: -748290348
+      Nene_FNF_assets_14: -419411628
+      Nene_FNF_assets_15: -49649099
+      Nene_FNF_assets_16: -388634178
+      Nene_FNF_assets_17: -1392472459
+      Nene_FNF_assets_18: 1616010797
+      Nene_FNF_assets_19: -1083022538
+      Nene_FNF_assets_2: 1563122913
+      Nene_FNF_assets_20: -1572625084
+      Nene_FNF_assets_21: 637251671
+      Nene_FNF_assets_22: -1041794930
+      Nene_FNF_assets_23: -1910638705
+      Nene_FNF_assets_24: 130241437
+      Nene_FNF_assets_25: 1598138155
+      Nene_FNF_assets_26: 1356457037
+      Nene_FNF_assets_3: 1936659227
+      Nene_FNF_assets_4: 529110950
+      Nene_FNF_assets_5: 950401723
+      Nene_FNF_assets_6: -389534974
+      Nene_FNF_assets_7: -833259285
+      Nene_FNF_assets_8: 1860454028
+      Nene_FNF_assets_9: -269772336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

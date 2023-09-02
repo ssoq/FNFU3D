@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Eggnog.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Lit Up.unity
+    guid: 2ca6a3cf4c40691488d6fe7f20321f72
   m_configObjects: {}

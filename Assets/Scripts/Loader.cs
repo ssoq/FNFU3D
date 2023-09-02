@@ -11,7 +11,7 @@ public class Loader : MonoBehaviour
     [SerializeField] private AudioSource mainAudio;
 
     [Header("Scenes To Load")]
-    [SerializeField] private string nextSceneName;
+    [SerializeField] public string nextSceneName;
 
     void Awake()
     {

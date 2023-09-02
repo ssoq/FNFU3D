@@ -210,31 +210,6 @@ public class NoteLogic : MonoBehaviour
         }
 
         #endregion
-
-        #region Releasing BF & GF Animation States
-
-        if (!Input.GetKey(GameManager.Instance.left))
-        {
-            GameManager.Instance.bfAnim.SetBool("left", false);
-            GameManager.Instance.gfAnim.SetBool("left", false);
-        }
-        if (!Input.GetKey(GameManager.Instance.right))
-        {
-            GameManager.Instance.bfAnim.SetBool("right", false);
-            GameManager.Instance.gfAnim.SetBool("right", false);
-        }
-        if (!Input.GetKey(GameManager.Instance.down))
-        {
-            GameManager.Instance.bfAnim.SetBool("down", false);
-            GameManager.Instance.gfAnim.SetBool("down", false);
-        }
-        if (!Input.GetKey(GameManager.Instance.up))
-        {
-            GameManager.Instance.bfAnim.SetBool("up", false);
-            GameManager.Instance.gfAnim.SetBool("up", false);
-        }
-
-        #endregion
     }
 
     private void OnTriggerEnter2D(Collider2D other)

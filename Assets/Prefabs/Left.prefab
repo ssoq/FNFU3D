@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6035877471873424264}
   - component: {fileID: 93288144362308528}
   - component: {fileID: 807722208271723040}
+  - component: {fileID: -4454039060455634431}
   m_Layer: 0
   m_Name: Left
   m_TagString: Untagged
@@ -152,3 +153,16 @@ MonoBehaviour:
   goodObj: {fileID: 4786850583962038750, guid: 46e6f0b6c4a0bfe42b8836f9e27e5a2d, type: 3}
   sickObj: {fileID: 6520519451647896312, guid: cad8cb71740b6bc4786a29792a2f7f35, type: 3}
   ratingPositionObject: {fileID: 0}
+--- !u!114 &-4454039060455634431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1826473526245577486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1d577c3a5452542a4ab64a26549fd2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  logicScript: {fileID: 0}
