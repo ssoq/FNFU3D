@@ -74,7 +74,9 @@ public class GameManager : MonoBehaviour
         if (healthSlider == null) return;
         if (scoreString == null) return;
 
-        if (SceneManager.GetActiveScene().name != "Menu") 
+        #region allows user to start song without loader in scene
+
+        if (SceneManager.GetActiveScene().name != "Menu")
         {
             CheckForPauseInput();
 
@@ -85,6 +87,8 @@ public class GameManager : MonoBehaviour
                 GameObject.FindGameObjectWithTag("Main Music Source").GetComponent<AudioSource>().Play();
             }
         }
+
+        #endregion
 
         HealthSlider();
         ScoreText();
@@ -147,6 +151,14 @@ public class GameManager : MonoBehaviour
         pauseAnim.SetBool("paused", false);
     }
 
+    public void ReloadScene()
+    {
+        Loader loaderScript = GameObject.Find("Loader").GetComponent<Loader>();
+        loaderScript.nextSceneName = SceneManager.GetActiveScene().name;
+
+        loaderScript.Play();
+    }
+
     public void LoadEggnog() 
     {
         Loader loaderScript = GameObject.Find("Loader").GetComponent<Loader>();
@@ -175,11 +187,34 @@ public class GameManager : MonoBehaviour
     {
         health = Mathf.Clamp(health, 0, 100);
         healthSlider.value = Mathf.Lerp(healthSlider.value, health, healthIncrementSmoothing * Time.deltaTime);
+
+        bool canDie = false;
+        if (health < 0 && !canDie)
+        {
+            StartCoroutine(DeathSequence());
+            canDie = true;
+        }
     }
 
     private void ScoreText() 
     {
         score = Mathf.Clamp(score, 0, score);
         scoreString.text = "Score: " + score.ToString();
+    }
+
+    private IEnumerator DeathSequence() 
+    {
+        bfAnim.SetTrigger("dead");
+        canPlay = false;
+        AudioSource music = GameObject.FindGameObjectWithTag("Main Music Source").GetComponent<AudioSource>();
+        AudioSource deathMusic = GameObject.FindGameObjectWithTag("Death Music Source").GetComponent<AudioSource>();
+        music.Pause();
+        deathMusic.Play();
+
+        yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Space));
+
+        ReloadScene();
+
+        StopCoroutine(DeathSequence());
     }
 }

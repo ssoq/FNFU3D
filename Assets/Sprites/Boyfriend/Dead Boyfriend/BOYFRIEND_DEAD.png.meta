@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: 8434bcff878a2474e869ee27b7c74b59
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb9dccbbb4501644bde0eca6bdd4ac2
+      internalID: -458211146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc66fffa2e36b1147ac3ee05b6dbf2a2
+      internalID: -1505341443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc27b2cb636fe49a25f39edfacc40b
+      internalID: -1272790539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_3
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e1f17c6d06bb84187f7e23dfcc8c68
+      internalID: -1262467865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_4
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d2beb5dca9fb4f92579ce2d5ca48f
+      internalID: -1561791243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_5
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fa2e8be555eb41b3f5eb772ef7050
+      internalID: 913802269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_6
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3660
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c003cd2e260db43bec14ba64c08b74
+      internalID: -1928098535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_7
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 3626
+        width: 439
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4bf129d20b2764b9d445be66d10198
+      internalID: -2015017029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_8
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3596
+        width: 439
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1e30796285ce489a7c163859d99af
+      internalID: 1604757492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3125
+        width: 439
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763b7ec63a0a954584160c552899c38
+      internalID: 1475969222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9ef9f28d3e4041bce20629f30e085
+      internalID: 2129662780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013e4a4fefb90d4ab2e09c693b8a053
+      internalID: 1277668819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_12
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392091f8c27e2440b3371e3080e0dc5
+      internalID: 1751226230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_13
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a5067c6e0e8744a7ea5c653c1c8cf
+      internalID: 1003624955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_14
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8b1e2fccaae3e4898948f0ba57f954
+      internalID: -1601455749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_15
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3125
+        width: 439
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8132e2ebc4607449cecb3df67ff8d9
+      internalID: 379840211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_16
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 3125
+        width: 439
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbec5bb37eec054698dcebedacfaecb
+      internalID: 1109751542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_17
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3125
+        width: 439
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3135f6802bf38a4185fdd8ca677bac3
+      internalID: 1587594388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2654
+        width: 439
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347a177bf043b44da56459b227a3506
+      internalID: -369391845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2654
+        width: 439
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b21fa3c66421f94aab955dc327e1f02
+      internalID: -1294859896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2654
+        width: 439
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff3d81244e415468957c744a882093
+      internalID: 1209497722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_21
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2654
+        width: 439
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b7c82002035340a1fdff1fafb7764
+      internalID: -478602620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_22
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2654
+        width: 439
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357970b5d86e924bb9a74477f235858
+      internalID: 709356089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_23
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2654
+        width: 439
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e814220b51bf934a8cf0138589d8495
+      internalID: -1511412831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_24
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2654
+        width: 439
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af918f6b876a2b4d9ff48e156522207
+      internalID: -982735469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_25
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2654
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b423ce2b8f454b950119d1763d816
+      internalID: -1099479156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_26
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2654
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a94129d01b7941be9aef2647a3b3e
+      internalID: 437478099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2183
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9bb4c757ef1ec41b6353a50f30384e
+      internalID: -1923063024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2183
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e29c169077a1e4793708adc090cc88
+      internalID: 1145967674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_29
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2183
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f62b24efa99f314d9f8f1e345396d15
+      internalID: -741977119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_30
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2236
+        width: 433
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a247d84bb17844a5b569218363884
+      internalID: -1646378719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_31
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2236
+        width: 433
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c9f40d6a46a9489045c8937be5e79
+      internalID: -1165930315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_32
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 2239
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34214594939de8d479c9da2c90c68dd7
+      internalID: 564730900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_33
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 2239
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8247b57f7a2477438350c408eb7ba99
+      internalID: -49786415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_34
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 2239
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82543c649bcddcb4e80f6f1a6e0c47cf
+      internalID: -1200616143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_35
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 2239
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821379fb807ac5c4089cd2bc3298f93b
+      internalID: 981249699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23a34f3b5ea3c438ffb91b3e38fa5f
+      internalID: -1132842389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593abbea01cbac499e863c95b6ede87
+      internalID: 694007605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_38
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a51ea428b7f24092f6accbc502525
+      internalID: -570223988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_39
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc8e4d7ac65e043bd394c2bfa66f62
+      internalID: -1364209600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_40
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b00d65bebe054abe8a09ffd131ffd
+      internalID: -1880217817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_41
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1768
+        width: 439
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a44667ec50eb4cbfb5490828fe152
+      internalID: 353757434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_42
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1741
+        width: 439
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801b676921164742974723d3e74da88
+      internalID: -642137564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_43
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1747
+        width: 439
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0de0b5f50e2d48b9bdff3f1f09d79
+      internalID: 934323309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_44
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1745
+        width: 439
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a156bf18da8464989cf14fed2aac07
+      internalID: -1394073722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69540237e97d494ebef436bf30f0c84
+      internalID: -952600579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_46
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc31c2c07bd73b45842d79e61f0a97b
+      internalID: 786448115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_47
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d37eafe96c5e3458e257fca2d61eda
+      internalID: -83290746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_48
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43691cce27817fc47ba9140159bc4050
+      internalID: 1413648960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_49
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3d810adfbcf34f93a8b5acfa6fdb6
+      internalID: -1555412825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_50
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b028acb53a401947bb773323cee919e
+      internalID: -1924078211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_51
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f55dd1bfec2174b8c821a537b12eca
+      internalID: -20788761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_52
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a29f340addc4a43aefef0351441ca9
+      internalID: 262283467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_53
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1305
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a1beb7832ce4429b04c32c23aa87c
+      internalID: 548389896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a49663e4eff34cac97abe6d73728f
+      internalID: -929389058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_55
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27ce95cdc772740864f04f2f26ab3b
+      internalID: 395743394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_56
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de480b16eba977b4d88336991f97d1b8
+      internalID: -1059965697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_57
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72abe7c7679c0ae43a5b51509d722a64
+      internalID: 1725181915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_58
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7889f113b4da44e82e7e65f7e8d64b
+      internalID: 1646448870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_59
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6fa6cd6248a8341b5b4ad0ceeaade4
+      internalID: 1556619889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_60
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09e763416409943aa31d363cbf8e83
+      internalID: 378632049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_61
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0a82d1ee6ba7e4e8df570aceb3090d
+      internalID: 944675239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_62
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 868
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c682dec42eb846b3649b84e912fa4
+      internalID: 385922917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dac2744f0cf85d4fa64f3af11fafa35
+      internalID: 103121240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_DEAD_64
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 431
+        width: 439
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eb7ede3e3f66b47bac5b063747090e
+      internalID: -817443922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a46f32704ededc14a9fa1fd9b3f1d2cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BOYFRIEND_DEAD_0: -458211146
+      BOYFRIEND_DEAD_1: -1505341443
+      BOYFRIEND_DEAD_10: 2129662780
+      BOYFRIEND_DEAD_11: 1277668819
+      BOYFRIEND_DEAD_12: 1751226230
+      BOYFRIEND_DEAD_13: 1003624955
+      BOYFRIEND_DEAD_14: -1601455749
+      BOYFRIEND_DEAD_15: 379840211
+      BOYFRIEND_DEAD_16: 1109751542
+      BOYFRIEND_DEAD_17: 1587594388
+      BOYFRIEND_DEAD_18: -369391845
+      BOYFRIEND_DEAD_19: -1294859896
+      BOYFRIEND_DEAD_2: -1272790539
+      BOYFRIEND_DEAD_20: 1209497722
+      BOYFRIEND_DEAD_21: -478602620
+      BOYFRIEND_DEAD_22: 709356089
+      BOYFRIEND_DEAD_23: -1511412831
+      BOYFRIEND_DEAD_24: -982735469
+      BOYFRIEND_DEAD_25: -1099479156
+      BOYFRIEND_DEAD_26: 437478099
+      BOYFRIEND_DEAD_27: -1923063024
+      BOYFRIEND_DEAD_28: 1145967674
+      BOYFRIEND_DEAD_29: -741977119
+      BOYFRIEND_DEAD_3: -1262467865
+      BOYFRIEND_DEAD_30: -1646378719
+      BOYFRIEND_DEAD_31: -1165930315
+      BOYFRIEND_DEAD_32: 564730900
+      BOYFRIEND_DEAD_33: -49786415
+      BOYFRIEND_DEAD_34: -1200616143
+      BOYFRIEND_DEAD_35: 981249699
+      BOYFRIEND_DEAD_36: -1132842389
+      BOYFRIEND_DEAD_37: 694007605
+      BOYFRIEND_DEAD_38: -570223988
+      BOYFRIEND_DEAD_39: -1364209600
+      BOYFRIEND_DEAD_4: -1561791243
+      BOYFRIEND_DEAD_40: -1880217817
+      BOYFRIEND_DEAD_41: 353757434
+      BOYFRIEND_DEAD_42: -642137564
+      BOYFRIEND_DEAD_43: 934323309
+      BOYFRIEND_DEAD_44: -1394073722
+      BOYFRIEND_DEAD_45: -952600579
+      BOYFRIEND_DEAD_46: 786448115
+      BOYFRIEND_DEAD_47: -83290746
+      BOYFRIEND_DEAD_48: 1413648960
+      BOYFRIEND_DEAD_49: -1555412825
+      BOYFRIEND_DEAD_5: 913802269
+      BOYFRIEND_DEAD_50: -1924078211
+      BOYFRIEND_DEAD_51: -20788761
+      BOYFRIEND_DEAD_52: 262283467
+      BOYFRIEND_DEAD_53: 548389896
+      BOYFRIEND_DEAD_54: -929389058
+      BOYFRIEND_DEAD_55: 395743394
+      BOYFRIEND_DEAD_56: -1059965697
+      BOYFRIEND_DEAD_57: 1725181915
+      BOYFRIEND_DEAD_58: 1646448870
+      BOYFRIEND_DEAD_59: 1556619889
+      BOYFRIEND_DEAD_6: -1928098535
+      BOYFRIEND_DEAD_60: 378632049
+      BOYFRIEND_DEAD_61: 944675239
+      BOYFRIEND_DEAD_62: 385922917
+      BOYFRIEND_DEAD_63: 103121240
+      BOYFRIEND_DEAD_64: -817443922
+      BOYFRIEND_DEAD_7: -2015017029
+      BOYFRIEND_DEAD_8: 1604757492
+      BOYFRIEND_DEAD_9: 1475969222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
