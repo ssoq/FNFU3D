@@ -17,6 +17,7 @@ TagManager:
   - Death Audio Source
   - World Death Cull
   - Game UI
+  - Retry Music
   layers:
   - Default
   - TransparentFX
