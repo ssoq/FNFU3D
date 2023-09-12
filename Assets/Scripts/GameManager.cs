@@ -13,6 +13,12 @@ public class GameManager : MonoBehaviour
     [Header("Instancing")]
     [SerializeField] static public GameManager Instance;
 
+    [Header("Rating Objects")]
+    [SerializeField] public GameObject shitObj;
+    [SerializeField] public GameObject badObj;
+    [SerializeField] public GameObject goodObj;
+    [SerializeField] public GameObject sickObj;
+
     [Header("Input")]
     [SerializeField] public KeyCode left;
     [SerializeField] public KeyCode down;
@@ -26,6 +32,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] public Animator downAnim;
     [SerializeField] public Animator pauseAnim;
     [SerializeField] public Animator focusAnim;
+    [SerializeField] public Animation worldSpaceDeathCuller;
+    [SerializeField] public Animation gameUIFade;
 
     [Space(10f)]
 
@@ -37,7 +45,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] public bool dead = false;
     [SerializeField] public bool pausedGame = false;
     [SerializeField] public int score = 0;
-    [SerializeField] public int health = 50;
+    [SerializeField] public int health = 100;
 
     [Space(10f)]
 
@@ -59,7 +67,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        Screen.SetResolution(1920, 1080, FullScreenMode.FullScreenWindow);
+        Screen.SetResolution(600, 300, FullScreenMode.FullScreenWindow);
+        Application.targetFrameRate = 120;
 
         Instance = this;
 
@@ -67,6 +76,8 @@ public class GameManager : MonoBehaviour
         {
             healthSlider = GameObject.Find("Health Slider").GetComponent<Slider>();
             scoreString = GameObject.Find("Score Text").GetComponent<TextMeshProUGUI>();
+            worldSpaceDeathCuller = GameObject.FindGameObjectWithTag("World Death Cull").GetComponent<Animation>();
+            gameUIFade = GameObject.FindGameObjectWithTag("Game UI").GetComponent<Animation>();
         }
     }
 
@@ -206,6 +217,8 @@ public class GameManager : MonoBehaviour
     private IEnumerator DeathSequence() 
     {
         bfAnim.SetTrigger("dead");
+        worldSpaceDeathCuller.Play();
+        gameUIFade.Play();
         canPlay = false;
         AudioSource music = GameObject.FindGameObjectWithTag("Main Music Source").GetComponent<AudioSource>();
         AudioSource deathSound = GameObject.FindGameObjectWithTag("Death Audio Source").GetComponent<AudioSource>();
@@ -220,6 +233,8 @@ public class GameManager : MonoBehaviour
         yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Space));
 
         bfAnim.SetTrigger("deadRetry");
+
+        yield return new WaitForSeconds(4f);
 
         ReloadScene();
 

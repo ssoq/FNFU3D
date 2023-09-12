@@ -15,6 +15,8 @@ TagManager:
   - Note Enable
   - Death Music Source
   - Death Audio Source
+  - World Death Cull
+  - Game UI
   layers:
   - Default
   - TransparentFX

@@ -17,12 +17,6 @@ public class NoteLogic : MonoBehaviour
     [SerializeField] private bool onUp;
     [SerializeField] private bool onDown;
 
-    [Header("Rating Objects")]
-    [SerializeField] private GameObject shitObj;
-    [SerializeField] private GameObject badObj;
-    [SerializeField] private GameObject goodObj;
-    [SerializeField] private GameObject sickObj;
-
     [Space(10f)]
 
     [SerializeField] private GameObject ratingPositionObject;
@@ -46,7 +40,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.shitScore;
                 GameManager.Instance.health -= GameManager.Instance.shitScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(shitObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.shitObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && !gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.left))
             {
@@ -55,7 +49,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.badScore;
                 GameManager.Instance.health -= GameManager.Instance.badScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(badObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.badObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && !gotSick && Input.GetKey(GameManager.Instance.left))
             {
@@ -64,7 +58,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.goodScore;
                 GameManager.Instance.health += GameManager.Instance.goodScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(goodObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.goodObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && gotSick && Input.GetKey(GameManager.Instance.left))
             {
@@ -73,7 +67,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.sickScore;
                 GameManager.Instance.health += GameManager.Instance.sickScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(sickObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.sickObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
         }
 
@@ -90,7 +84,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.shitScore;
                 GameManager.Instance.health -= GameManager.Instance.shitScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(shitObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.shitObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && !gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.right))
             {
@@ -99,7 +93,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.badScore;
                 GameManager.Instance.health -= GameManager.Instance.badScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(badObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.badObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.right))
             {
@@ -108,7 +102,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.goodScore;
                 GameManager.Instance.health += GameManager.Instance.goodScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(goodObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.goodObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && gotSick && Input.GetKeyDown(GameManager.Instance.right))
             {
@@ -117,7 +111,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.sickScore;
                 GameManager.Instance.health += GameManager.Instance.sickScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(sickObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.sickObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
         }
 
@@ -134,7 +128,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.shitScore;
                 GameManager.Instance.health -= GameManager.Instance.shitScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(shitObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.shitObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && !gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.down))
             {
@@ -143,7 +137,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.badScore;
                 GameManager.Instance.health -= GameManager.Instance.badScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(badObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.badObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.down))
             {
@@ -152,7 +146,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.goodScore;
                 GameManager.Instance.health += GameManager.Instance.goodScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(goodObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.goodObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && gotSick && Input.GetKeyDown(GameManager.Instance.down))
             {
@@ -161,7 +155,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.sickScore;
                 GameManager.Instance.health += GameManager.Instance.sickScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(sickObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.sickObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
         }
 
@@ -178,7 +172,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.shitScore;
                 GameManager.Instance.health -= GameManager.Instance.shitScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(shitObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.shitObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && !gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.up))
             {
@@ -187,7 +181,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.badScore;
                 GameManager.Instance.health -= GameManager.Instance.badScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(badObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.badObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && !gotSick && Input.GetKeyDown(GameManager.Instance.up))
             {
@@ -196,7 +190,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.goodScore;
                 GameManager.Instance.health += GameManager.Instance.goodScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(goodObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.goodObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
             else if (gotShit && gotBad && gotGood && gotSick && Input.GetKeyDown(GameManager.Instance.up))
             {
@@ -205,7 +199,7 @@ public class NoteLogic : MonoBehaviour
                 GameManager.Instance.score += GameManager.Instance.sickScore;
                 GameManager.Instance.health += GameManager.Instance.sickScore / 2;
                 gameObject.SetActive(false);
-                Instantiate(sickObj, ratingPositionObject.transform.position, Quaternion.identity);
+                Instantiate(GameManager.Instance.sickObj, ratingPositionObject.transform.position, Quaternion.identity);
             }
         }
 

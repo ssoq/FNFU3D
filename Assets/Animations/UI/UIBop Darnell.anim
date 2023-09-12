@@ -21,7 +21,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 2.209287, y: 1.1882076, z: 1.1882076}
+        value: {x: 1.9158878, y: 1.0304105, z: 1.0304105}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -30,16 +30,16 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.083333336
-        value: {x: 2.6362472, y: 1.4178373, z: 1.4178373}
-        inSlope: {x: 4.4260793, y: 2.380453, z: 2.380453}
-        outSlope: {x: 4.4260793, y: 2.380453, z: 2.380453}
+        value: {x: 2.4239814, y: 1.3036754, z: 1.3036754}
+        inSlope: {x: 1.3184451, y: 0.7090902, z: 0.7090902}
+        outSlope: {x: 1.3184451, y: 0.7090902, z: 0.7090902}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.13333334
-        value: {x: 2.7994308, y: 1.5056014, z: 1.5056014}
+        value: {x: 2.4679296, y: 1.3273118, z: 1.3273118}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -47,8 +47,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 0.23333333
-        value: {x: 2.209287, y: 1.1882076, z: 1.1882076}
+        time: 0.25
+        value: {x: 1.9158878, y: 1.0304105, z: 1.0304105}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -58,13 +58,13 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Health Slider/Fill Area/Fill/BF Icon
+    path: BF Icon
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 1.4264616, y: 1.1217718, z: 1.1217718}
+        value: {x: 1.263186, y: 1.0341316, z: 1.0341316}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -73,16 +73,16 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.083333336
-        value: {x: 1.7021354, y: 1.3385621, z: 1.3385621}
-        inSlope: {x: 2.8577702, y: 2.247355, z: 2.247355}
-        outSlope: {x: 2.8577702, y: 2.247355, z: 2.247355}
+        value: {x: 1.5981829, y: 1.3083833, z: 1.3083833}
+        inSlope: {x: 0.86927897, y: 0.7116508, z: 0.7116508}
+        outSlope: {x: 0.86927897, y: 0.7116508, z: 0.7116508}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.13333334
-        value: {x: 1.8074976, y: 1.4214191, z: 1.4214191}
+        value: {x: 1.6271589, y: 1.332105, z: 1.332105}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -90,8 +90,8 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 0.23333333
-        value: {x: 1.4264616, y: 1.1217718, z: 1.1217718}
+        time: 0.25
+        value: {x: 1.263186, y: 1.0341316, z: 1.0341316}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -101,7 +101,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Health Slider/Fill Area/Fill/Dad & Mum Icon
+    path: Dad & Mum Icon
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 60
@@ -117,7 +117,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.23333333
+    m_StopTime: 0.25
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -139,7 +139,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 2.209287
+        value: 1.9158878
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -148,16 +148,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 2.6362472
-        inSlope: 4.4260793
-        outSlope: 4.4260793
+        value: 2.4239814
+        inSlope: 1.3184451
+        outSlope: 1.3184451
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 2.7994308
+        value: 2.4679296
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -165,8 +165,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 2.209287
+        time: 0.25
+        value: 1.9158878
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -177,7 +177,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: Health Slider/Fill Area/Fill/BF Icon
+    path: BF Icon
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -187,7 +187,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.1882076
+        value: 1.0304105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -196,16 +196,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 1.4178373
-        inSlope: 2.380453
-        outSlope: 2.380453
+        value: 1.3036754
+        inSlope: 0.7090902
+        outSlope: 0.7090902
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 1.5056014
+        value: 1.3273118
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -213,8 +213,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 1.1882076
+        time: 0.25
+        value: 1.0304105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -225,7 +225,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: Health Slider/Fill Area/Fill/BF Icon
+    path: BF Icon
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -235,7 +235,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.1882076
+        value: 1.0304105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -244,16 +244,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 1.4178373
-        inSlope: 2.380453
-        outSlope: 2.380453
+        value: 1.3036754
+        inSlope: 0.7090902
+        outSlope: 0.7090902
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 1.5056014
+        value: 1.3273118
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -261,8 +261,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 1.1882076
+        time: 0.25
+        value: 1.0304105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -273,7 +273,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: Health Slider/Fill Area/Fill/BF Icon
+    path: BF Icon
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -283,7 +283,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.4264616
+        value: 1.263186
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -292,16 +292,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 1.7021354
-        inSlope: 2.8577702
-        outSlope: 2.8577702
+        value: 1.5981829
+        inSlope: 0.86927897
+        outSlope: 0.86927897
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 1.8074976
+        value: 1.6271589
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -309,8 +309,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 1.4264616
+        time: 0.25
+        value: 1.263186
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -321,7 +321,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: Health Slider/Fill Area/Fill/Dad & Mum Icon
+    path: Dad & Mum Icon
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -331,7 +331,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.1217718
+        value: 1.0341316
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -340,16 +340,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 1.3385621
-        inSlope: 2.247355
-        outSlope: 2.247355
+        value: 1.3083833
+        inSlope: 0.7116508
+        outSlope: 0.7116508
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 1.4214191
+        value: 1.332105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -357,8 +357,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 1.1217718
+        time: 0.25
+        value: 1.0341316
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -369,7 +369,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: Health Slider/Fill Area/Fill/Dad & Mum Icon
+    path: Dad & Mum Icon
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -379,7 +379,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1.1217718
+        value: 1.0341316
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -388,16 +388,16 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 1.3385621
-        inSlope: 2.247355
-        outSlope: 2.247355
+        value: 1.3083833
+        inSlope: 0.7116508
+        outSlope: 0.7116508
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.13333334
-        value: 1.4214191
+        value: 1.332105
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -405,8 +405,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.23333333
-        value: 1.1217718
+        time: 0.25
+        value: 1.0341316
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -417,7 +417,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: Health Slider/Fill Area/Fill/Dad & Mum Icon
+    path: Dad & Mum Icon
     classID: 224
     script: {fileID: 0}
     flags: 0

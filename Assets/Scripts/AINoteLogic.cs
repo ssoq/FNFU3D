@@ -8,7 +8,7 @@ public class AINoteLogic : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("AINote"))
         {
-            GameManager.Instance.health -= GameManager.Instance.badScore / 6;
+            GameManager.Instance.health -= GameManager.Instance.badScore / 3;
             collision.gameObject.SetActive(false);
         }
     }
