@@ -1,2 +1,4 @@
 # FNFU3D
- Friday Night Funkin' developed within Unity with a similar look and feel to PaRappa the Rapper 
+ Friday Night Funkin' developed within Unity
+
+ Open-Source with immaculately written code (the game crashes after 5 minutes of running)
