@@ -13,6 +13,8 @@ TagManager:
   - Main Music Source
   - Loader
   - Note Enable
+  - Death Music Source
+  - Death Audio Source
   layers:
   - Default
   - TransparentFX

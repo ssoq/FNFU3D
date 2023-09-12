@@ -23,25 +23,33 @@ public class FocusCurrentSinger : MonoBehaviour
 
     void Update()
     {
-        if (switchFocusAnim.GetBool("player") && !switchFocusAnim.GetBool("both"))
+        if (!GameManager.Instance.dead)
+        {
+            if (switchFocusAnim.GetBool("player") && !switchFocusAnim.GetBool("both"))
+            {
+                transform.localPosition = Vector3.Lerp(transform.localPosition, playerSinger, smoothing * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, playerFov, smoothing * Time.deltaTime);
+            }
+            else if (!switchFocusAnim.GetBool("player") && !switchFocusAnim.GetBool("both"))
+            {
+                transform.localPosition = Vector3.Lerp(transform.localPosition, aiSinger, smoothing * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, enemyFov, smoothing * Time.deltaTime);
+            }
+            else if (switchFocusAnim.GetBool("both") && !switchFocusAnim.GetBool("player"))
+            {
+                transform.localPosition = Vector3.Lerp(transform.localPosition, normal, smoothing * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, defaultFov, smoothing * Time.deltaTime);
+            }
+            else if (switchFocusAnim.GetBool("both") && switchFocusAnim.GetBool("player"))
+            {
+                transform.localPosition = Vector3.Lerp(transform.localPosition, normal, smoothing * Time.deltaTime);
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, defaultFov, smoothing * Time.deltaTime);
+            }
+        }
+        else 
         {
             transform.localPosition = Vector3.Lerp(transform.localPosition, playerSinger, smoothing * Time.deltaTime);
             cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, playerFov, smoothing * Time.deltaTime);
-        }
-        else if (!switchFocusAnim.GetBool("player") && !switchFocusAnim.GetBool("both"))
-        {
-            transform.localPosition = Vector3.Lerp(transform.localPosition, aiSinger, smoothing * Time.deltaTime);
-            cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, enemyFov, smoothing * Time.deltaTime);
-        }
-        else if (switchFocusAnim.GetBool("both") && !switchFocusAnim.GetBool("player"))
-        {
-            transform.localPosition = Vector3.Lerp(transform.localPosition, normal, smoothing * Time.deltaTime);
-            cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, defaultFov, smoothing * Time.deltaTime);
-        }
-        else if (switchFocusAnim.GetBool("both") && switchFocusAnim.GetBool("player"))
-        {
-            transform.localPosition = Vector3.Lerp(transform.localPosition, normal, smoothing * Time.deltaTime);
-            cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, defaultFov, smoothing * Time.deltaTime);
         }
     }
 }

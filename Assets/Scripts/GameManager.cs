@@ -34,6 +34,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Game State")]
     [SerializeField] public bool canPlay = false;
+    [SerializeField] public bool dead = false;
     [SerializeField] public bool pausedGame = false;
     [SerializeField] public int score = 0;
     [SerializeField] public int health = 50;
@@ -188,11 +189,11 @@ public class GameManager : MonoBehaviour
         health = Mathf.Clamp(health, 0, 100);
         healthSlider.value = Mathf.Lerp(healthSlider.value, health, healthIncrementSmoothing * Time.deltaTime);
 
-        bool canDie = false;
-        if (health < 0 && !canDie)
+        if (health <= 0 && !dead)
         {
+            Debug.Log("Dead");
             StartCoroutine(DeathSequence());
-            canDie = true;
+            dead = true;
         }
     }
 
@@ -207,11 +208,18 @@ public class GameManager : MonoBehaviour
         bfAnim.SetTrigger("dead");
         canPlay = false;
         AudioSource music = GameObject.FindGameObjectWithTag("Main Music Source").GetComponent<AudioSource>();
-        AudioSource deathMusic = GameObject.FindGameObjectWithTag("Death Music Source").GetComponent<AudioSource>();
+        AudioSource deathSound = GameObject.FindGameObjectWithTag("Death Audio Source").GetComponent<AudioSource>();
         music.Pause();
+        deathSound.Play();
+
+        yield return new WaitUntil(() => !deathSound.isPlaying);
+
+        AudioSource deathMusic = GameObject.FindGameObjectWithTag("Death Music Source").GetComponent<AudioSource>();
         deathMusic.Play();
 
         yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Space));
+
+        bfAnim.SetTrigger("deadRetry");
 
         ReloadScene();
 
