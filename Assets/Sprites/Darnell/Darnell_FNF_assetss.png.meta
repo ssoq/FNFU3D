@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -69,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -147,18 +147,1074 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2973
+        width: 416
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65101b38261114a409e94895af01e206
+      internalID: 1182585622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2973
+        width: 416
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7653fb371672484aa8f8182c16febf3
+      internalID: 1489722067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2973
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115d37ded4feea4aa221fc510c5063f
+      internalID: 1170165281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_3
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2973
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb1d73fe4296c4a8c8e370067c1a1b
+      internalID: 507659400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_4
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2973
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f43d20b411cd8479f02eb3371f81f3
+      internalID: 1967535470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_5
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2973
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbe0bf1f0c393458bfbe05f80b7db4
+      internalID: -2096126149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2482
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35562db7ecdd94459456dc95df2e0da
+      internalID: -1706634649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2482
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71d816883cb5f41bc69e776cf4ac63
+      internalID: -1354236168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2482
+        width: 421
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7bb7163fcbc048ba91328e160d0e9
+      internalID: -663858763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2419
+        width: 344
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ca924b69bf794eb79307667116dac
+      internalID: 1178127552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_10
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2419
+        width: 344
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eabb05ae20db543896ccf67e9d4757
+      internalID: 829332948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_11
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2419
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5ba504cc381f4794dda995382a4a7
+      internalID: 1318163569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_12
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2419
+        width: 351
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a76495b5970f48ac845802e93c857
+      internalID: 23535453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1928
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141faebe669696248afe669400807c32
+      internalID: 711368539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1928
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67546e094ceaf9842afc608aefaa61d6
+      internalID: -1760742418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1928
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d17adbce8e9bb46adc559128551f62
+      internalID: -507875941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1866
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e31801e1033134fbd7582fbcb77a06
+      internalID: -1858323108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_17
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1866
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421631edaed7e12438bd01fb83ea7836
+      internalID: -2025092135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_18
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1866
+        width: 351
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7d0fcc8b398f449c982f544ea5abd
+      internalID: 1566417105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_19
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1866
+        width: 351
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f1b38f65344f4b8e583368b0bc49d
+      internalID: -1460163905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_20
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1934
+        width: 389
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7000bcc199cf86641b202ba5113f6c75
+      internalID: 930015614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1461
+        width: 418
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e82f0e16ce6d04188a0e9c264ad1ce
+      internalID: 1280868822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1461
+        width: 418
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59b32fa4756f074aa1f310340aed80e
+      internalID: -1297428432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1399
+        width: 407
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4313954bedca4c4984a95040160e58b
+      internalID: 1075783261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_24
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1399
+        width: 407
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf23ec104a0ef242b764faf6bb3f054
+      internalID: -1435912189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_25
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1399
+        width: 407
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817deab4d7443e4a90c5d9031643977
+      internalID: -1952632947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_26
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1399
+        width: 407
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6add575cde454843b928591e49325dd
+      internalID: -1931276774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_27
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1380
+        width: 373
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507330d2a2015854eaa12a304ae7bdd5
+      internalID: 1475815913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 994
+        width: 407
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e0f7d341294a1428b87336b67d851a
+      internalID: 1572892107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 994
+        width: 407
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ee3c5b1bdce754aabce1f5f8a40e2d
+      internalID: -837232755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_30
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 932
+        width: 407
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5b959b40e969488463fcb9c092cd4
+      internalID: 492602827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_31
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 913
+        width: 373
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f09f3729b0d3b4d94e8b07c1a42a16
+      internalID: 318835793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_32
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 913
+        width: 393
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f16aaefbfbfc4da950b41ff855cf0
+      internalID: 1454316643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_33
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 913
+        width: 390
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd171fe80ff4234d8b1c29682115d38
+      internalID: 1475490318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_34
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 893
+        width: 387
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b73c7e9d64804ab599ea853e5d6cb
+      internalID: -444643879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 508
+        width: 384
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6384d601ea18b14e8d5b9bd0892e6b8
+      internalID: 1483667726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 508
+        width: 384
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c1960d16b7b84185295631cca3c56
+      internalID: -360612376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 446
+        width: 384
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c78667d56abdc4faca740f5d86e3af
+      internalID: -1764127168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_38
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 426
+        width: 384
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad016e8484cdcd4da43d8209bdd4967
+      internalID: 676129575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_39
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 426
+        width: 384
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd540fdeeb05164e93ad7f8a5e79dc9
+      internalID: -775166794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_40
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 426
+        width: 384
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db51b833dd514343934c41c06103589
+      internalID: -823846036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_41
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 467
+        width: 424
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788bdb010312dc4c9edc38da3bf9924
+      internalID: -1867141223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 424
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6380cfde6dbc47898cb7861600a0b
+      internalID: -306131726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 20
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c86b5618b3004fb21dfab23a01c59
+      internalID: -189043424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_44
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 0
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ce73da62b9e74ea95cf7ca913dda8
+      internalID: -1470916273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_45
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 0
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f538637581fb4198bf716ad287d24
+      internalID: -1550610672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_46
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c947e52a078de478362c5f2126559c
+      internalID: 911348663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darnell_FNF_assetss_47
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 42
+        width: 422
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2e581d9d95ac4abbae3a83fc595d2
+      internalID: -1354914965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7287cf2d1a40a0d4ea38f6437aac248b
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Darnell_FNF_assetss_0: 1182585622
+      Darnell_FNF_assetss_1: 1489722067
+      Darnell_FNF_assetss_10: 829332948
+      Darnell_FNF_assetss_11: 1318163569
+      Darnell_FNF_assetss_12: 23535453
+      Darnell_FNF_assetss_13: 711368539
+      Darnell_FNF_assetss_14: -1760742418
+      Darnell_FNF_assetss_15: -507875941
+      Darnell_FNF_assetss_16: -1858323108
+      Darnell_FNF_assetss_17: -2025092135
+      Darnell_FNF_assetss_18: 1566417105
+      Darnell_FNF_assetss_19: -1460163905
+      Darnell_FNF_assetss_2: 1170165281
+      Darnell_FNF_assetss_20: 930015614
+      Darnell_FNF_assetss_21: 1280868822
+      Darnell_FNF_assetss_22: -1297428432
+      Darnell_FNF_assetss_23: 1075783261
+      Darnell_FNF_assetss_24: -1435912189
+      Darnell_FNF_assetss_25: -1952632947
+      Darnell_FNF_assetss_26: -1931276774
+      Darnell_FNF_assetss_27: 1475815913
+      Darnell_FNF_assetss_28: 1572892107
+      Darnell_FNF_assetss_29: -837232755
+      Darnell_FNF_assetss_3: 507659400
+      Darnell_FNF_assetss_30: 492602827
+      Darnell_FNF_assetss_31: 318835793
+      Darnell_FNF_assetss_32: 1454316643
+      Darnell_FNF_assetss_33: 1475490318
+      Darnell_FNF_assetss_34: -444643879
+      Darnell_FNF_assetss_35: 1483667726
+      Darnell_FNF_assetss_36: -360612376
+      Darnell_FNF_assetss_37: -1764127168
+      Darnell_FNF_assetss_38: 676129575
+      Darnell_FNF_assetss_39: -775166794
+      Darnell_FNF_assetss_4: 1967535470
+      Darnell_FNF_assetss_40: -823846036
+      Darnell_FNF_assetss_41: -1867141223
+      Darnell_FNF_assetss_42: -306131726
+      Darnell_FNF_assetss_43: -189043424
+      Darnell_FNF_assetss_44: -1470916273
+      Darnell_FNF_assetss_45: -1550610672
+      Darnell_FNF_assetss_46: 911348663
+      Darnell_FNF_assetss_47: -1354914965
+      Darnell_FNF_assetss_5: -2096126149
+      Darnell_FNF_assetss_6: -1706634649
+      Darnell_FNF_assetss_7: -1354236168
+      Darnell_FNF_assetss_8: -663858763
+      Darnell_FNF_assetss_9: 1178127552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

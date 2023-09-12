@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class SwitchFocus : MonoBehaviour
 {
-    [SerializeField] private bool player;
-    [SerializeField] private bool both;
+    public bool player;
+    public bool both;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
