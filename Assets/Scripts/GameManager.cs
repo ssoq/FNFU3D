@@ -158,7 +158,7 @@ public class GameManager : MonoBehaviour
     public void LoadLitup()
     {
         Loader loaderScript = GameObject.Find("Loader").GetComponent<Loader>();
-        loaderScript.nextSceneName = "Lit Up";
+        loaderScript.nextSceneName = "2hot Erect";
 
         loaderScript.Play();
     }
