@@ -5,12 +5,13 @@ using UnityEngine;
 public class BeatScroller : MonoBehaviour
 {
     [Header("Beat Settings")]
-    [SerializeField] private float tempo = 128f;
+    [SerializeField] private float tempo = 190f;
+    [SerializeField] private float beatsPerSecond = 60f;
     [SerializeField] private float multiplier = 2f;
 
     void Start()
     {
-        
+        tempo = tempo / beatsPerSecond * multiplier;
     }
 
     void Update()
@@ -22,6 +23,6 @@ public class BeatScroller : MonoBehaviour
 
     private void ScrollNotes() 
     {
-        transform.Translate(Vector3.up * tempo * multiplier * Time.deltaTime);
+        transform.position += new Vector3(0f, tempo * multiplier * Time.deltaTime);
     }
 }

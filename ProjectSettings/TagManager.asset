@@ -19,6 +19,7 @@ TagManager:
   - Game UI
   - Retry Music
   - Note
+  - Event Trigger
   layers:
   - Default
   - TransparentFX

@@ -33,27 +33,27 @@ public class CameraBob : MonoBehaviour
     {
         if (Input.GetKey(GameManager.Instance.left))
         {
-            cam.transform.localPosition = Vector3.Slerp(cam.transform.localPosition, rotLeft, rotationSmoothing * Time.deltaTime);
+            cam.transform.localPosition = Vector3.Lerp(cam.transform.localPosition, rotLeft, rotationSmoothing * Time.deltaTime);
         }
 
         if (Input.GetKey(GameManager.Instance.right))
         {
-            cam.transform.localPosition = Vector3.Slerp(cam.transform.localPosition, rotRight, rotationSmoothing * Time.deltaTime);
+            cam.transform.localPosition = Vector3.Lerp(cam.transform.localPosition, rotRight, rotationSmoothing * Time.deltaTime);
         }
 
         if (Input.GetKey(GameManager.Instance.up))
         {
-            cam.transform.localPosition = Vector3.Slerp(cam.transform.localPosition, rotUp, rotationSmoothing * Time.deltaTime);
+            cam.transform.localPosition = Vector3.Lerp(cam.transform.localPosition, rotUp, rotationSmoothing * Time.deltaTime);
         }
 
         if (Input.GetKey(GameManager.Instance.down))
         {
-            cam.transform.localPosition = Vector3.Slerp(cam.transform.localPosition, rotDown, rotationSmoothing * Time.deltaTime);
+            cam.transform.localPosition = Vector3.Lerp(cam.transform.localPosition, rotDown, rotationSmoothing * Time.deltaTime);
         }
 
         if (!Input.GetKey(GameManager.Instance.left) && !Input.GetKey(GameManager.Instance.right) && !Input.GetKey(GameManager.Instance.up) && !Input.GetKey(GameManager.Instance.down))
         {
-            cam.transform.localPosition = Vector3.Slerp(cam.transform.localPosition, normal, rotationSmoothing * Time.deltaTime);
+            cam.transform.localPosition = Vector3.Lerp(cam.transform.localPosition, normal, rotationSmoothing * Time.deltaTime);
         }
     }
 
