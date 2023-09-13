@@ -11,15 +11,18 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: both
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: player
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 444920492848091938}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.16214682
+  m_TransitionDuration: 0.13488455
   m_TransitionOffset: 0
-  m_ExitTime: 0
+  m_ExitTime: 5.8129485e-10
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -63,6 +66,9 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: player
+    m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: both
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1462389859386681357}
@@ -145,6 +151,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: player
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: both
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -3145637950143301291}
   m_Solo: 0
@@ -203,6 +212,9 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: both
+    m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: player
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 444920492848091938}
