@@ -4,23 +4,23 @@ using UnityEngine;
 
 public class NoteCuller : MonoBehaviour
 {
-    [SerializeField] private NoteLogic logicScript;
+    private GameObject arrowInner;
 
     private void Awake()
     {
-        logicScript = GetComponent<NoteLogic>();
+        arrowInner = transform.GetChild(0).gameObject;
     }
 
     private void Start()
     {
-        logicScript.enabled = false;
+        arrowInner.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Note Enable")) 
         {
-            logicScript.enabled = true;
+            arrowInner.SetActive(true);
         }
     }
 
@@ -28,7 +28,7 @@ public class NoteCuller : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Note Enable"))
         {
-            logicScript.enabled = false;
+            arrowInner.SetActive(false);
         }
     }
 }

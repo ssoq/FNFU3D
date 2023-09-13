@@ -18,6 +18,7 @@ TagManager:
   - World Death Cull
   - Game UI
   - Retry Music
+  - Note
   layers:
   - Default
   - TransparentFX
