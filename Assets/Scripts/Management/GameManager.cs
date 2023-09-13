@@ -39,6 +39,7 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] public Animator bfAnim;
     [SerializeField] public Animator gfAnim;
+    [SerializeField] public Animator oponentAnim;
 
     [Header("Game State")]
     [SerializeField] public bool canPlay = false;
@@ -67,8 +68,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        Screen.SetResolution(600, 300, FullScreenMode.FullScreenWindow);
-        Application.targetFrameRate = 300;
+        Screen.SetResolution(550, 300, FullScreenMode.FullScreenWindow);
+        Application.targetFrameRate = 80;
 
         Instance = this;
 

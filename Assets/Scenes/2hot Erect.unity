@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6547,7 +6547,6 @@ GameObject:
   - component: {fileID: 591614785}
   - component: {fileID: 591614788}
   - component: {fileID: 591614787}
-  - component: {fileID: 591614786}
   m_Layer: 6
   m_Name: Scroll Event Trigger
   m_TagString: Event Trigger
@@ -6570,18 +6569,6 @@ Transform:
   m_Father: {fileID: 16739024}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &591614786
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 591614784}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fd1d577c3a5452542a4ab64a26549fd2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!50 &591614787
 Rigidbody2D:
   serializedVersion: 4
@@ -22687,6 +22674,7 @@ MonoBehaviour:
   gameUIFade: {fileID: 0}
   bfAnim: {fileID: 734448218}
   gfAnim: {fileID: 310026909}
+  oponentAnim: {fileID: 0}
   canPlay: 0
   dead: 0
   pausedGame: 0
